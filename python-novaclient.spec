@@ -1,6 +1,6 @@
 Name:		python-novaclient
 Version:	18.11.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/python_novaclient/python_novaclient-%{version}.tar.gz
 Summary:	Client library for OpenStack Compute API
 URL:		https://pypi.org/project/python-novaclient/
