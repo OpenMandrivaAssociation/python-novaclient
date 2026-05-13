@@ -2,7 +2,7 @@
 %define oname python_novaclient
 
 Name:		python-novaclient
-Version:	18.12.0
+Version:	18.13.0
 Release:	1
 Summary:	Client library for OpenStack Compute API
 License:	Apache License, Version 2.0
